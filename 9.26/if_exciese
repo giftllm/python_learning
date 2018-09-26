@@ -1,0 +1,11 @@
+age = 3
+if age >= 18:		#冒号一定不能少
+	print("your age is:", age)
+	print('adult')
+elif age >= 6:		#elif是else if 的缩写，可以执行多行
+	print('your age is:',age)
+	print('teenager')
+else:				#m冒号一定不能少
+	print("your age is:", age)
+	print("kid")
+
