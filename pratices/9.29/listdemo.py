@@ -37,7 +37,13 @@ print(combs)
 a = [1, 2, 3]
 for x in a:
     x = x ** 2 + 1
-    print(x, end =' ')
+    l = []
+    l.append(x)
+    lst = []
+    lst.extend(l)
+    print(lst   )
+
+    #print(x.append(x), end =' ')
     #下面程序输出结果是列表形式，这个程序输出结果是数值类型。哪里不对呢，我想把这个程序的输出结果也以类表形式输出，怎么办？
 
 #z = [x + 1 for x in [x ** 2 for x in [1, 2, 3]]]
