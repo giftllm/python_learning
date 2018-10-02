@@ -6,16 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb7d0ac-db9c-4b31-b44d-68dee72f6e47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pratices/9.30/Studentscores_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/9.30/countdemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/9.30/defchange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/9.30/docstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/9.30/exciese04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/9.30/fuction-key-value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/9.30/higher-order-fuction-def.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/9.30/mapdef.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/9.30/stringdemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/9.30/twolistmultipdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/10.1/filedemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/10.1/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/10.2/copyfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/10.2/parsefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/10.2/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,20 +23,22 @@
     <SUITE FILE_PATH="coverage/python_learning$defdemo.coverage" NAME="defdemo Coverage Results" MODIFIED="1538233009438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$cademo.coverage" NAME="cademo Coverage Results" MODIFIED="1538212851997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$defdemo__1_.coverage" NAME="defdemo (1) Coverage Results" MODIFIED="1538211517844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
+    <SUITE FILE_PATH="coverage/python_learning$copyfile.coverage" NAME="copyfile Coverage Results" MODIFIED="1538475079737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.2" />
     <SUITE FILE_PATH="coverage/python_learning$higher_order_fuction_def.coverage" NAME="higher-order-fuction-def Coverage Results" MODIFIED="1538330133305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
     <SUITE FILE_PATH="coverage/python_learning$powerseries.coverage" NAME="powerseries Coverage Results" MODIFIED="1538233873695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$Studentscores_demo.coverage" NAME="Studentscores_demo Coverage Results" MODIFIED="1538279074528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
-    <SUITE FILE_PATH="coverage/python_learning$countdemo.coverage" NAME="countdemo Coverage Results" MODIFIED="1538322365661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
+    <SUITE FILE_PATH="coverage/python_learning$countdemo.coverage" NAME="countdemo Coverage Results" MODIFIED="1538359681308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
     <SUITE FILE_PATH="coverage/python_learning$classdemo.coverage" NAME="classdemo Coverage Results" MODIFIED="1538132716733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.28" />
     <SUITE FILE_PATH="coverage/python_learning$stringdemo.coverage" NAME="stringdemo Coverage Results" MODIFIED="1538320746172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
     <SUITE FILE_PATH="coverage/python_learning$fuctiondemo.coverage" NAME="fuctiondemo Coverage Results" MODIFIED="1538134504626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.28" />
     <SUITE FILE_PATH="coverage/python_learning$fuction_key_value.coverage" NAME="fuction-key-value Coverage Results" MODIFIED="1538329329893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
+    <SUITE FILE_PATH="coverage/python_learning$parsefile.coverage" NAME="parsefile Coverage Results" MODIFIED="1538494136527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.2" />
     <SUITE FILE_PATH="coverage/python_learning$continuebreakdemo.coverage" NAME="continuebreakdemo Coverage Results" MODIFIED="1538230222794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$setdemo.coverage" NAME="setdemo Coverage Results" MODIFIED="1538265311163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
     <SUITE FILE_PATH="coverage/python_learning$readfiledemo.coverage" NAME="readfiledemo Coverage Results" MODIFIED="1538204367696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$product.coverage" NAME="product Coverage Results" MODIFIED="1538205174805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$dictdemo.coverage" NAME="dictdemo Coverage Results" MODIFIED="1538131843528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.28" />
-    <SUITE FILE_PATH="coverage/python_learning$filedemo.coverage" NAME="filedemo Coverage Results" MODIFIED="1538214128477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
+    <SUITE FILE_PATH="coverage/python_learning$filedemo.coverage" NAME="filedemo Coverage Results" MODIFIED="1538474507057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.1" />
     <SUITE FILE_PATH="coverage/python_learning$multipdemo.coverage" NAME="multipdemo Coverage Results" MODIFIED="1538227312310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$_pydev_execfile.coverage" NAME="_pydev_execfile Coverage Results" MODIFIED="1538131188927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps" />
     <SUITE FILE_PATH="coverage/python_learning$Sticksgames.coverage" NAME="Sticksgames Coverage Results" MODIFIED="1538231609295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
@@ -64,35 +61,36 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.48" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="28" value="1" />
-          <entry key="py" value="37" />
-          <entry key="txt" value="3" />
+          <entry key="py" value="55" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="37" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="55" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="11860" />
-          <entry key="txt" value="63" />
+          <entry key="py" value="12825" />
+          <entry key="txt" value="150" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="11683" />
+          <entry key="PLAIN_TEXT" value="150" />
+          <entry key="Python" value="12648" />
           <entry key="Scratch" value="177" />
         </counts>
       </usages-collector>
@@ -101,40 +99,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratices/9.30/twolistmultipdemo.py">
+        <entry file="file://$PROJECT_DIR$/pratices/10.1/filedemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-              <folding>
-                <marker date="1538293747039" expanded="true" signature="19:24" ph="..." />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratices/9.30/stringdemo.py">
+        <entry file="file://$PROJECT_DIR$/pratices/10.2/copyfile.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="281">
-              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratices/9.30/countdemo.py">
+        <entry file="file://$PROJECT_DIR$/pratices/10.2/test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="49" lean-forward="true" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+            <state relative-caret-position="57">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratices/9.30/exciese04.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pratices/10.2/parsefile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="262">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1538491983529" expanded="true" signature="42:47" ph="..." />
+                <marker date="1538491983529" expanded="true" signature="364:369" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,8 +142,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pratices/9.30/defchange.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="285">
+              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
               <folding>
                 <marker date="1538327277162" expanded="true" signature="29:34" ph="..." />
                 <marker date="1538327277162" expanded="true" signature="338:343" ph="..." />
@@ -153,15 +153,54 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pratices/9.30/mapdef.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pratices/9.30/fuction-key-value.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
               <folding>
                 <marker date="1538327975783" expanded="true" signature="26:31" ph="..." />
                 <marker date="1538327975783" expanded="true" signature="222:227" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pratices/9.30/docstring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pratices/9.30/higher-order-fuction-def.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1538330133249" expanded="true" signature="139:144" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pratices/9.30/dirtdemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -217,6 +256,11 @@
         <option value="$PROJECT_DIR$/pratices/9.30/docstring.py" />
         <option value="$PROJECT_DIR$/pratices/9.30/higher-order-fuction-def.py" />
         <option value="$PROJECT_DIR$/pratices/9.30/mapdef.py" />
+        <option value="$PROJECT_DIR$/pratices/10.1/test.txt" />
+        <option value="$PROJECT_DIR$/pratices/10.1/filedemo.py" />
+        <option value="$PROJECT_DIR$/pratices/10.2/copyfile.py" />
+        <option value="$PROJECT_DIR$/pratices/10.2/test.txt" />
+        <option value="$PROJECT_DIR$/pratices/10.2/parsefile.py" />
       </list>
     </option>
   </component>
@@ -240,6 +284,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,7 +301,7 @@
               <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_learning" type="462c0819:PsiDirectoryNode" />
               <item name="pratices" type="462c0819:PsiDirectoryNode" />
-              <item name="9.30" type="462c0819:PsiDirectoryNode" />
+              <item name="10.2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
@@ -271,7 +316,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,8 +336,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mapdef">
-    <configuration name="defchange" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.parsefile">
+    <configuration name="copyfile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,12 +345,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/9.30" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/9.30/defchange.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.2/copyfile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,7 +359,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="docstring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="countdemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -328,7 +372,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/9.30/docstring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/9.30/countdemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,7 +381,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fuction-key-value" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="filedemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,34 +389,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/9.30" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/9.30/fuction-key-value.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="higher-order-fuction-def" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/9.30" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/9.30/higher-order-fuction-def.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.1/filedemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,20 +425,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="parsefile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.2/parsefile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.defchange" />
-      <item itemvalue="Python.fuction-key-value" />
-      <item itemvalue="Python.docstring" />
-      <item itemvalue="Python.higher-order-fuction-def" />
       <item itemvalue="Python.mapdef" />
+      <item itemvalue="Python.filedemo" />
+      <item itemvalue="Python.countdemo" />
+      <item itemvalue="Python.copyfile" />
+      <item itemvalue="Python.parsefile" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.parsefile" />
+        <item itemvalue="Python.copyfile" />
+        <item itemvalue="Python.filedemo" />
+        <item itemvalue="Python.countdemo" />
         <item itemvalue="Python.mapdef" />
-        <item itemvalue="Python.higher-order-fuction-def" />
-        <item itemvalue="Python.docstring" />
-        <item itemvalue="Python.fuction-key-value" />
-        <item itemvalue="Python.defchange" />
       </list>
     </recent_temporary>
   </component>
@@ -437,12 +481,12 @@
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25660965" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26049766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -579,13 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.29/readfiledemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pratices/9.29/filedemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -624,20 +661,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.30/setdemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.30/dirtdemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pratices/9.29/multipdemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -669,24 +692,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.30/Studentscores_demo.py">
+    <entry file="file://$PROJECT_DIR$/pratices/9.30/twolistmultipdemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.30/stringdemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.30/countdemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="49" lean-forward="true" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+        <state relative-caret-position="209">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -697,10 +706,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.1/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/9.30/Studentscoredemo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/9.30/Studentscores_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/9.30/setdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/9.30/String.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/9.29/readfiledemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/9.30/stringdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/9.30/countdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pratices/9.30/defchange.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="285">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
           <folding>
             <marker date="1538327277162" expanded="true" signature="29:34" ph="..." />
             <marker date="1538327277162" expanded="true" signature="338:343" ph="..." />
@@ -709,35 +766,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.30/twolistmultipdemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <marker date="1538293747039" expanded="true" signature="19:24" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pratices/9.30/mapdef.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding>
-            <marker date="1538330536472" expanded="true" signature="144:226" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.30/String.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.30/higher-order-fuction-def.py">
+    <entry file="file://$PROJECT_DIR$/pratices/9.30/fuction-key-value.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding>
-            <marker date="1538330133249" expanded="true" signature="139:144" ph="..." />
+            <marker date="1538327975783" expanded="true" signature="26:31" ph="..." />
+            <marker date="1538327975783" expanded="true" signature="222:227" ph="..." />
           </folding>
         </state>
       </provider>
@@ -749,13 +791,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.30/fuction-key-value.py">
+    <entry file="file://$PROJECT_DIR$/pratices/9.30/higher-order-fuction-def.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <marker date="1538327975783" expanded="true" signature="26:31" ph="..." />
-            <marker date="1538327975783" expanded="true" signature="222:227" ph="..." />
+            <marker date="1538330133249" expanded="true" signature="139:144" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/9.30/dirtdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.1/filedemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.2/copyfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.2/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.2/parsefile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1538491983529" expanded="true" signature="42:47" ph="..." />
+            <marker date="1538491983529" expanded="true" signature="364:369" ph="..." />
           </folding>
         </state>
       </provider>
