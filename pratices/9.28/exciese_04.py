@@ -16,7 +16,7 @@ def my_quardratic(a,b,c):   #记得打冒号
         print("c is not a number, please try again")
     d = b*b - 4*a*c
     if d < 0:
-        return 'b*b - 4*a*c', d, "小于零，方程无解"
+        return 'b*b - 4*a*c', d , "小于零，方程无解"
     else:
         if a == 0:
             if b == 0:
