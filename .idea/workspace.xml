@@ -6,14 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb7d0ac-db9c-4b31-b44d-68dee72f6e47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pratices/10.6/classdemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/10.7/Bank_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/10.7/Modular_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/10.7/move.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/10.7/my_abs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/10.11/Recursive_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/10.9/function_Arguments.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pratices/10.4/MinutestoHours.py" beforeDir="false" afterPath="$PROJECT_DIR$/pratices/10.4/MinutestoHours.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pratices/9.28/exciese_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/pratices/9.28/exciese_04.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +34,7 @@
     <SUITE FILE_PATH="coverage/python_learning$continuebreakdemo.coverage" NAME="continuebreakdemo Coverage Results" MODIFIED="1538230222794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$setdemo.coverage" NAME="setdemo Coverage Results" MODIFIED="1538265311163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
     <SUITE FILE_PATH="coverage/python_learning$readfiledemo.coverage" NAME="readfiledemo Coverage Results" MODIFIED="1538204367696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
+    <SUITE FILE_PATH="coverage/python_learning$function_Arguments.coverage" NAME="function_Arguments Coverage Results" MODIFIED="1539173489081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.9" />
     <SUITE FILE_PATH="coverage/python_learning$product.coverage" NAME="product Coverage Results" MODIFIED="1538205174805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$dictdemo.coverage" NAME="dictdemo Coverage Results" MODIFIED="1538131843528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.28" />
     <SUITE FILE_PATH="coverage/python_learning$MinutestoHours.coverage" NAME="MinutestoHours Coverage Results" MODIFIED="1538818350710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.4" />
@@ -51,6 +47,7 @@
     <SUITE FILE_PATH="coverage/python_learning$defchange.coverage" NAME="defchange Coverage Results" MODIFIED="1538613103176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
     <SUITE FILE_PATH="coverage/python_learning$twolistmultipdemo.coverage" NAME="twolistmultipdemo Coverage Results" MODIFIED="1538293681757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
     <SUITE FILE_PATH="coverage/python_learning$movedemo.coverage" NAME="movedemo Coverage Results" MODIFIED="1538206512733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
+    <SUITE FILE_PATH="coverage/python_learning$Recursive_function.coverage" NAME="Recursive_function Coverage Results" MODIFIED="1539254639906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.11" />
     <SUITE FILE_PATH="coverage/python_learning$exciese04.coverage" NAME="exciese04 Coverage Results" MODIFIED="1538326301446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
     <SUITE FILE_PATH="coverage/python_learning$temperature.coverage" NAME="temperature Coverage Results" MODIFIED="1538216205129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$mapdef.coverage" NAME="mapdef Coverage Results" MODIFIED="1538330496306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
@@ -79,27 +76,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="28" value="1" />
-          <entry key="py" value="65" />
+          <entry key="py" value="67" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="65" />
+          <entry key="Python" value="67" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="16871" />
+          <entry key="py" value="21639" />
           <entry key="txt" value="150" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="150" />
-          <entry key="Python" value="16694" />
+          <entry key="Python" value="21462" />
           <entry key="Scratch" value="177" />
         </counts>
       </usages-collector>
@@ -107,15 +104,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratices/10.4/MinutestoHours.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pratices/10.6/classdemo.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -144,20 +132,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratices/10.7/Modular_bar.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-              <folding>
-                <marker date="1538885664343" expanded="true" signature="17:22" ph="..." />
-                <marker date="1538885664343" expanded="true" signature="103:108" ph="..." />
-                <marker date="1538885664343" expanded="true" signature="271:276" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pratices/10.7/my_abs.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
@@ -169,11 +143,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pratices/10.7/move.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38">
-              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="684">
+              <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
               <folding>
                 <marker date="1538889511508" expanded="true" signature="44:49" ph="..." />
                 <marker date="1538889511508" expanded="true" signature="259:264" ph="..." />
@@ -183,10 +157,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratices/9.30/countdemo.py">
+        <entry file="file://$PROJECT_DIR$/pratices/10.9/function_Arguments.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="846">
+              <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+              <folding>
+                <marker date="1539173739904" expanded="true" signature="59:62" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:63" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:65" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:67" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:69" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:70" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:73" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:74" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:79" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:80" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:82" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:84" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:85" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:86" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:88" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="59:90" ph="..." />
+                <marker date="1539173739904" expanded="true" signature="2272:5193" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pratices/10.11/Recursive_function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+              <folding>
+                <marker date="1539254691362" expanded="true" signature="106:111" ph="..." />
+                <marker date="1539254691362" expanded="true" signature="449:762" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -286,6 +292,8 @@
         <option value="$PROJECT_DIR$/pratices/10.7/my_abs.py" />
         <option value="$PROJECT_DIR$/pratices/9.28/exciese_04.py" />
         <option value="$PROJECT_DIR$/pratices/10.7/move.py" />
+        <option value="$PROJECT_DIR$/pratices/10.9/function_Arguments.py" />
+        <option value="$PROJECT_DIR$/pratices/10.11/Recursive_function.py" />
       </list>
     </option>
   </component>
@@ -295,7 +303,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -325,49 +333,7 @@
               <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_learning" type="462c0819:PsiDirectoryNode" />
               <item name="pratices" type="462c0819:PsiDirectoryNode" />
-              <item name="9.28" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="pratices" type="462c0819:PsiDirectoryNode" />
-              <item name="9.29" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="pratices" type="462c0819:PsiDirectoryNode" />
-              <item name="9.30" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="pratices" type="462c0819:PsiDirectoryNode" />
-              <item name="10.1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="pratices" type="462c0819:PsiDirectoryNode" />
-              <item name="10.2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="pratices" type="462c0819:PsiDirectoryNode" />
-              <item name="10.4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="pratices" type="462c0819:PsiDirectoryNode" />
-              <item name="10.6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="pratices" type="462c0819:PsiDirectoryNode" />
-              <item name="10.7" type="462c0819:PsiDirectoryNode" />
+              <item name="10.9" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
@@ -403,8 +369,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.move">
-    <configuration name="Bank_account" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Recursive_function">
+    <configuration name="Recursive_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -412,34 +378,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.7/Bank_account.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Modular_bar" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.7/Modular_bar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.11/Recursive_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -492,6 +436,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="function_Arguments" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.9/function_Arguments.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="move" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -516,18 +482,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.classdemo" />
-      <item itemvalue="Python.Bank_account" />
-      <item itemvalue="Python.Modular_bar" />
       <item itemvalue="Python.move" />
       <item itemvalue="Python.exciese_04" />
+      <item itemvalue="Python.function_Arguments" />
+      <item itemvalue="Python.Recursive_function" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Recursive_function" />
+        <item itemvalue="Python.function_Arguments" />
         <item itemvalue="Python.move" />
         <item itemvalue="Python.exciese_04" />
         <item itemvalue="Python.classdemo" />
-        <item itemvalue="Python.Modular_bar" />
-        <item itemvalue="Python.Bank_account" />
       </list>
     </recent_temporary>
   </component>
@@ -554,7 +520,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
@@ -610,20 +576,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="2" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pratices/9.28/dictdemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -898,16 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/10.7/Bank_account.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding>
-            <marker date="1538879806726" expanded="true" signature="22:27" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pratices/9.30/defchange.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
@@ -943,14 +885,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/10.7/Modular_bar.py">
+    <entry file="file://$PROJECT_DIR$/pratices/9.28/exciese_04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        <state relative-caret-position="57">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.7/move.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
           <folding>
-            <marker date="1538885664343" expanded="true" signature="17:22" ph="..." />
-            <marker date="1538885664343" expanded="true" signature="103:108" ph="..." />
-            <marker date="1538885664343" expanded="true" signature="271:276" ph="..." />
+            <marker date="1538889511508" expanded="true" signature="44:49" ph="..." />
+            <marker date="1538889511508" expanded="true" signature="259:264" ph="..." />
           </folding>
         </state>
       </provider>
@@ -969,20 +917,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.28/exciese_04.py">
+    <entry file="file://$PROJECT_DIR$/pratices/10.7/Modular_bar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="295">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <marker date="1538885664343" expanded="true" signature="17:22" ph="..." />
+            <marker date="1538885664343" expanded="true" signature="103:108" ph="..." />
+            <marker date="1538885664343" expanded="true" signature="271:276" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/10.7/move.py">
+    <entry file="file://$PROJECT_DIR$/pratices/10.7/Bank_account.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        <state relative-caret-position="266">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
           <folding>
-            <marker date="1538889511508" expanded="true" signature="44:49" ph="..." />
-            <marker date="1538889511508" expanded="true" signature="259:264" ph="..." />
+            <marker date="1538879806726" expanded="true" signature="22:27" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.9/function_Arguments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+          <folding>
+            <marker date="1539173739904" expanded="true" signature="59:62" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:63" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:65" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:67" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:69" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:70" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:73" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:74" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:79" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:80" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:82" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:84" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:85" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:86" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:88" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="59:90" ph="..." />
+            <marker date="1539173739904" expanded="true" signature="2272:5193" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.11/Recursive_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <marker date="1539254691362" expanded="true" signature="106:111" ph="..." />
+            <marker date="1539254691362" expanded="true" signature="449:762" ph="..." />
           </folding>
         </state>
       </provider>
