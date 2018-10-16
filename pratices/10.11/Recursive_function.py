@@ -13,11 +13,12 @@ print(fact(3))
 #解决递归调用栈溢出的方法是通过尾递归优化
 
 def fact_1(n):      #定义face_1函数
-    return fact_2(n, 1) #函数返回值 fact_1(n ,1)
+    return fact_2(n, 1) #函数返回值 fact_2(n ,1)
 def fact_2(num, product):    #一定函数fact_2(num,product),里面有两个变量，num，product
     if num == 1:        #如果num的值为1，返回product值
         return product
     return fact_2(num - 1, num * product)   #fact_2(num - 1, num * product)
 print(fact_1(100))
 #尾递归优化也不能结果fact（1000）的栈溢出问题。
+
 

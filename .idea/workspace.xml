@@ -6,9 +6,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb7d0ac-db9c-4b31-b44d-68dee72f6e47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pratices/10.11/Recursive_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratices/10.9/function_Arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/10.12/mapexcise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/10.12/mapfuction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/10.12/reducefuction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/10.14/fliter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/10.14/reduce-excise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/10.14/string-float.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pratices/10.11/Recursive_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/pratices/10.11/Recursive_function.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +23,8 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_learning$defdemo.coverage" NAME="defdemo Coverage Results" MODIFIED="1538233009438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
+    <SUITE FILE_PATH="coverage/python_learning$reducefuction.coverage" NAME="reducefuction Coverage Results" MODIFIED="1539602472646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.12" />
+    <SUITE FILE_PATH="coverage/python_learning$mapexcise.coverage" NAME="mapexcise Coverage Results" MODIFIED="1539603946401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.12" />
     <SUITE FILE_PATH="coverage/python_learning$cademo.coverage" NAME="cademo Coverage Results" MODIFIED="1538212851997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$defdemo__1_.coverage" NAME="defdemo (1) Coverage Results" MODIFIED="1538211517844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$Bank_account.coverage" NAME="Bank_account Coverage Results" MODIFIED="1538885664373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.7" />
@@ -26,6 +33,7 @@
     <SUITE FILE_PATH="coverage/python_learning$powerseries.coverage" NAME="powerseries Coverage Results" MODIFIED="1538233873695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$Studentscores_demo.coverage" NAME="Studentscores_demo Coverage Results" MODIFIED="1538279074528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
     <SUITE FILE_PATH="coverage/python_learning$countdemo.coverage" NAME="countdemo Coverage Results" MODIFIED="1538359681308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
+    <SUITE FILE_PATH="coverage/python_learning$fliter.coverage" NAME="fliter Coverage Results" MODIFIED="1539609683724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.14" />
     <SUITE FILE_PATH="coverage/python_learning$stringdemo.coverage" NAME="stringdemo Coverage Results" MODIFIED="1538320746172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
     <SUITE FILE_PATH="coverage/python_learning$classdemo.coverage" NAME="classdemo Coverage Results" MODIFIED="1538886962707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.6" />
     <SUITE FILE_PATH="coverage/python_learning$fuctiondemo.coverage" NAME="fuctiondemo Coverage Results" MODIFIED="1538134504626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.28" />
@@ -38,6 +46,7 @@
     <SUITE FILE_PATH="coverage/python_learning$product.coverage" NAME="product Coverage Results" MODIFIED="1538205174805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$dictdemo.coverage" NAME="dictdemo Coverage Results" MODIFIED="1538131843528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.28" />
     <SUITE FILE_PATH="coverage/python_learning$MinutestoHours.coverage" NAME="MinutestoHours Coverage Results" MODIFIED="1538818350710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.4" />
+    <SUITE FILE_PATH="coverage/python_learning$mapfuction.coverage" NAME="mapfuction Coverage Results" MODIFIED="1539608268152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.12" />
     <SUITE FILE_PATH="coverage/python_learning$filedemo.coverage" NAME="filedemo Coverage Results" MODIFIED="1538474507057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.1" />
     <SUITE FILE_PATH="coverage/python_learning$multipdemo.coverage" NAME="multipdemo Coverage Results" MODIFIED="1538227312310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$_pydev_execfile.coverage" NAME="_pydev_execfile Coverage Results" MODIFIED="1538131188927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps" />
@@ -49,11 +58,13 @@
     <SUITE FILE_PATH="coverage/python_learning$movedemo.coverage" NAME="movedemo Coverage Results" MODIFIED="1538206512733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$Recursive_function.coverage" NAME="Recursive_function Coverage Results" MODIFIED="1539254639906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.11" />
     <SUITE FILE_PATH="coverage/python_learning$exciese04.coverage" NAME="exciese04 Coverage Results" MODIFIED="1538326301446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
+    <SUITE FILE_PATH="coverage/python_learning$string_float.coverage" NAME="string-float Coverage Results" MODIFIED="1539609649910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.14" />
     <SUITE FILE_PATH="coverage/python_learning$temperature.coverage" NAME="temperature Coverage Results" MODIFIED="1538216205129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$mapdef.coverage" NAME="mapdef Coverage Results" MODIFIED="1538330496306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
     <SUITE FILE_PATH="coverage/python_learning$docstring.coverage" NAME="docstring Coverage Results" MODIFIED="1538329858895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
     <SUITE FILE_PATH="coverage/python_learning$tryexpectdemo.coverage" NAME="tryexpectdemo Coverage Results" MODIFIED="1538613220575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.4" />
     <SUITE FILE_PATH="coverage/python_learning$move.coverage" NAME="move Coverage Results" MODIFIED="1538889511542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.7" />
+    <SUITE FILE_PATH="coverage/python_learning$reduce_excise.coverage" NAME="reduce-excise Coverage Results" MODIFIED="1539604571611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/10.14" />
     <SUITE FILE_PATH="coverage/python_learning$listdemo.coverage" NAME="listdemo Coverage Results" MODIFIED="1538263136787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.29" />
     <SUITE FILE_PATH="coverage/python_learning$exciese_04.coverage" NAME="exciese_04 Coverage Results" MODIFIED="1538888886211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.28" />
     <SUITE FILE_PATH="coverage/python_learning$dirtdemo.coverage" NAME="dirtdemo Coverage Results" MODIFIED="1538266267837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratices/9.30" />
@@ -76,27 +87,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="28" value="1" />
-          <entry key="py" value="67" />
+          <entry key="py" value="73" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="67" />
+          <entry key="Python" value="73" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="21639" />
+          <entry key="py" value="24184" />
           <entry key="txt" value="150" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="150" />
-          <entry key="Python" value="21462" />
+          <entry key="Python" value="24007" />
           <entry key="Scratch" value="177" />
         </counts>
       </usages-collector>
@@ -105,25 +116,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratices/10.6/classdemo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
-              <folding>
-                <marker date="1538886962650" expanded="true" signature="26:31" ph="..." />
-                <marker date="1538886962650" expanded="true" signature="118:234" ph="..." />
-                <marker date="1538886962650" expanded="true" signature="343:348" ph="..." />
-                <marker date="1538886962650" expanded="true" signature="748:1234" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pratices/10.7/Bank_account.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
               <folding>
                 <marker date="1538879806726" expanded="true" signature="22:27" ph="..." />
               </folding>
@@ -132,35 +128,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratices/10.7/my_abs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-              <folding>
-                <marker date="1538887400941" expanded="true" signature="14:19" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratices/10.7/move.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-              <folding>
-                <marker date="1538889511508" expanded="true" signature="44:49" ph="..." />
-                <marker date="1538889511508" expanded="true" signature="259:264" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pratices/10.9/function_Arguments.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="846">
-              <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+            <state relative-caret-position="209">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <marker date="1539173739904" expanded="true" signature="59:62" ph="..." />
                 <marker date="1539173739904" expanded="true" signature="59:63" ph="..." />
@@ -184,15 +155,85 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pratices/10.11/Recursive_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            <state relative-caret-position="57">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
               <folding>
-                <marker date="1539254691362" expanded="true" signature="106:111" ph="..." />
-                <marker date="1539254691362" expanded="true" signature="449:762" ph="..." />
+                <marker date="1539255026076" expanded="true" signature="106:111" ph="..." />
+                <marker date="1539255026076" expanded="true" signature="449:763" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pratices/10.12/mapfuction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <folding>
+                <marker date="1539608268078" expanded="true" signature="188:193" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pratices/10.12/reducefuction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <marker date="1539602476234" expanded="true" signature="231:236" ph="..." />
+                <marker date="1539602476234" expanded="true" signature="429:602" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pratices/10.12/mapexcise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
+              <folding>
+                <marker date="1539604033499" expanded="true" signature="424:627" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pratices/10.14/reduce-excise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <marker date="1539608512461" expanded="true" signature="266:267" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pratices/10.14/string-float.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <folding>
+                <marker date="1539608747332" expanded="true" signature="220:225" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pratices/10.14/fliter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -201,30 +242,7 @@
         <entry file="file://$PROJECT_DIR$/pratices/9.29/multipdemo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratices/9.28/exciese_04.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratices/9.30/defchange.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-              <folding>
-                <marker date="1538327277162" expanded="true" signature="29:34" ph="..." />
-                <marker date="1538327277162" expanded="true" signature="338:343" ph="..." />
-                <marker date="1538327277162" expanded="true" signature="472:477" ph="..." />
-              </folding>
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -244,11 +262,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-        <option value="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py" />
-        <option value="$PROJECT_DIR$/pratices/9.28/dictdemo.py" />
-        <option value="$PROJECT_DIR$/pratices/9.28/setdemo.py" />
-        <option value="$PROJECT_DIR$/pratices/9.28/classdemo.py" />
         <option value="$PROJECT_DIR$/pratices/9.28/fuctiondemo.py" />
         <option value="$PROJECT_DIR$/pratices/9.28/defdemo.py" />
         <option value="$PROJECT_DIR$/pratices/9.29/foo.txt" />
@@ -294,6 +307,12 @@
         <option value="$PROJECT_DIR$/pratices/10.7/move.py" />
         <option value="$PROJECT_DIR$/pratices/10.9/function_Arguments.py" />
         <option value="$PROJECT_DIR$/pratices/10.11/Recursive_function.py" />
+        <option value="$PROJECT_DIR$/pratices/10.12/reducefuction.py" />
+        <option value="$PROJECT_DIR$/pratices/10.12/mapexcise.py" />
+        <option value="$PROJECT_DIR$/pratices/10.12/mapfuction.py" />
+        <option value="$PROJECT_DIR$/pratices/10.14/reduce-excise.py" />
+        <option value="$PROJECT_DIR$/pratices/10.14/string-float.py" />
+        <option value="$PROJECT_DIR$/pratices/10.14/fliter.py" />
       </list>
     </option>
   </component>
@@ -303,7 +322,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -334,6 +353,24 @@
               <item name="python_learning" type="462c0819:PsiDirectoryNode" />
               <item name="pratices" type="462c0819:PsiDirectoryNode" />
               <item name="10.9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="pratices" type="462c0819:PsiDirectoryNode" />
+              <item name="10.11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="pratices" type="462c0819:PsiDirectoryNode" />
+              <item name="10.12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="pratices" type="462c0819:PsiDirectoryNode" />
+              <item name="10.14" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
@@ -369,8 +406,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Recursive_function">
-    <configuration name="Recursive_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.fliter">
+    <configuration name="fliter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,12 +415,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.11/Recursive_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.14/fliter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -392,7 +429,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classdemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mapexcise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -400,12 +437,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.6/classdemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.12/mapexcise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,7 +451,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exciese_04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mapfuction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -422,12 +459,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/9.28" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/9.28/exciese_04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.12/mapfuction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -436,7 +473,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function_Arguments" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reduce-excise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -444,12 +481,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.9/function_Arguments.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.14/reduce-excise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -458,7 +495,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="move" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="string-float" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -466,12 +503,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratices/10.14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.7/move.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratices/10.14/string-float.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -481,19 +518,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.classdemo" />
-      <item itemvalue="Python.move" />
-      <item itemvalue="Python.exciese_04" />
-      <item itemvalue="Python.function_Arguments" />
-      <item itemvalue="Python.Recursive_function" />
+      <item itemvalue="Python.mapfuction" />
+      <item itemvalue="Python.mapexcise" />
+      <item itemvalue="Python.reduce-excise" />
+      <item itemvalue="Python.string-float" />
+      <item itemvalue="Python.fliter" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Recursive_function" />
-        <item itemvalue="Python.function_Arguments" />
-        <item itemvalue="Python.move" />
-        <item itemvalue="Python.exciese_04" />
-        <item itemvalue="Python.classdemo" />
+        <item itemvalue="Python.fliter" />
+        <item itemvalue="Python.string-float" />
+        <item itemvalue="Python.mapfuction" />
+        <item itemvalue="Python.reduce-excise" />
+        <item itemvalue="Python.mapexcise" />
       </list>
     </recent_temporary>
   </component>
@@ -520,15 +557,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24386252" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24386252" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -575,43 +612,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pratices/10.12/mapfuction.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pratices/9.28/dictdemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.28/setdemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.28/classdemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.28/fuctiondemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="1" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.28/defdemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratices/9.29/movedemo。py.py" />
     <entry file="file://$PROJECT_DIR$/pratices/9.29/product.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -865,7 +877,7 @@
     <entry file="file://$PROJECT_DIR$/pratices/10.6/classdemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
           <folding>
             <marker date="1538886962650" expanded="true" signature="26:31" ph="..." />
             <marker date="1538886962650" expanded="true" signature="118:234" ph="..." />
@@ -895,7 +907,7 @@
     <entry file="file://$PROJECT_DIR$/pratices/10.7/move.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
-          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
           <folding>
             <marker date="1538889511508" expanded="true" signature="44:49" ph="..." />
             <marker date="1538889511508" expanded="true" signature="259:264" ph="..." />
@@ -913,7 +925,7 @@
     <entry file="file://$PROJECT_DIR$/pratices/9.29/multipdemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -932,17 +944,27 @@
     <entry file="file://$PROJECT_DIR$/pratices/10.7/Bank_account.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
           <folding>
             <marker date="1538879806726" expanded="true" signature="22:27" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.14/string-float.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <marker date="1539608747332" expanded="true" signature="220:225" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pratices/10.9/function_Arguments.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+        <state relative-caret-position="209">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <marker date="1539173739904" expanded="true" signature="59:62" ph="..." />
             <marker date="1539173739904" expanded="true" signature="59:63" ph="..." />
@@ -967,11 +989,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pratices/10.11/Recursive_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="57">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding>
-            <marker date="1539254691362" expanded="true" signature="106:111" ph="..." />
-            <marker date="1539254691362" expanded="true" signature="449:762" ph="..." />
+            <marker date="1539255026076" expanded="true" signature="106:111" ph="..." />
+            <marker date="1539255026076" expanded="true" signature="449:763" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.12/mapexcise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
+          <folding>
+            <marker date="1539604033499" expanded="true" signature="424:627" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.14/reduce-excise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <marker date="1539608512461" expanded="true" signature="266:267" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.12/mapfuction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <marker date="1539608268078" expanded="true" signature="188:193" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.14/fliter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratices/10.12/reducefuction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1539602476234" expanded="true" signature="231:236" ph="..." />
+            <marker date="1539602476234" expanded="true" signature="429:602" ph="..." />
           </folding>
         </state>
       </provider>
